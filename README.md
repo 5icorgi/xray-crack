@@ -43,16 +43,14 @@ ____  ___.________.    ____.   _____.___.
 \___/\  \ |____|   /\____|_   / / _____/
       \_/       \_/        \_/  \/
 
-Version: 1.3.3/1d166d72/COMMUNITY-ADVANCED
-Licensed to Lz1y, license is valid until 2099-09-09 08:00:00
+Version: 1.4.2/d579ba25/COMMUNITY-ADVANCED
+Licensed to icorgi, license is valid until 2099-09-09 08:00:00
 
-Generate default configurations to config.yaml
-[INFO] 2020-10-03 14:33:14 [default:entry.go:157] loading config file from H:\xray-crack\config.yaml
-[xray 1.3.3/1d166d72]
-Build: [2020-09-17] [windows/386] [RELEASE/COMMUNITY-ADVANCED]
+[xray 1.4.2/d579ba25]
+Build: [2020-11-10] [windows/amd64] [RELEASE/COMMUNITY-ADVANCED]
 Compiler Version: go version go1.14.4 linux/amd64
 License ID: 00000000000000000000000000000000
-User Name: Lz1y/00000000000000000000000000000000
+User Name: icorgi/00000000000000000000000000000000
 Not Valid Before: 2020-06-12 00:00:00
 Not Valid After: 2099-09-09 08:00:00
 
